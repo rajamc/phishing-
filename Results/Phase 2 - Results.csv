@@ -1,0 +1,41 @@
+id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
+fa4FOvX,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:26.7767463Z,true,2024-05-21T00:23:50.2972115Z,aphilott@dnister.com.au,Adaline,Philott,Recruiting Manager
+yEjXH1t,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:26.8665104Z,true,2024-05-21T00:23:48.0874943Z,aaskie@dnister.com.au,Aili,Askie,Staff Accountant I
+x70h1Qy,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:26.9562401Z,true,2024-05-21T00:23:52.1682482Z,asendall@dnister.com.au,Alvan,Sendall,Database Administrator II
+x7QYBrP,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:27.0380133Z,true,2024-05-21T00:23:54.8491356Z,akellen@dnister.com.au,Angelika,Kellen,Human Resources Manager
+EyMYVht,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:27.1207779Z,true,2024-05-21T00:23:56.6243672Z,aramelot@dnister.com.au,Arliene,Ramelot,Occupational Therapist
+masBixf,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:27.2045456Z,true,2024-05-21T00:24:23.7182951Z,aconnow@dnister.com.au,Ava,Connow,Information Systems Manager
+Mi0ivMc,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:27.2843176Z,true,2024-05-21T00:24:25.9470613Z,bthackeray@dnister.com.au,Barnie,Thackeray,Financial Advisor
+DcDYufq,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:27.3611014Z,true,2024-05-21T00:24:01.7469912Z,bfolliss@dnister.com.au,Berrie,Folliss,Account Representative I
+K5NeZAH,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:27.4488549Z,true,2024-05-21T00:24:27.8164229Z,bawcock@dnister.com.au,Berte,Awcock,Cost Accountant
+jj9X7Ku,Email Sent,127.0.0.1,0,0,2024-05-21T00:19:27.5386101Z,true,2024-05-21T00:24:31.974042Z,bkennsley@dnister.com.au,Boonie,Kennsley,Data Coordinator
+Za8RFM1,Email Sent,,0,0,2024-05-21T00:19:27.6353297Z,false,2024-05-21T00:19:27.6353297Z,btesimon@dnister.com.au,Brittne,Tesimon,Software Test Engineer II
+wjnENyb,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:27.7240809Z,true,2024-05-21T00:24:19.8730927Z,csergeant@dnister.com.au,Charita,Sergeant,Help Desk Operator
+zXAaxgG,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:27.8018611Z,false,2024-05-21T00:21:36.3318697Z,dmcfadyen@dnister.com.au,Darcie,McFadyen,Web Developer I
+OCfECv1,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:27.8836316Z,true,2024-05-21T00:24:05.1771346Z,dmahmood@dnister.com.au,Donal,Mahmood,Information Systems Manager
+9I9TH72,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:27.9644043Z,true,2024-05-21T00:24:07.6732348Z,egrocock@dnister.com.au,Elvis,Grocock,Quality Control Specialist
+vO8hp0M,Email Sent,,0,0,2024-05-21T00:19:28.0521567Z,false,2024-05-21T00:19:28.0521567Z,emaybey@dnister.com.au,Evangeline,Maybey,Marketing Manager
+1JyLNXQ,Email Sent,,0,0,2024-05-21T00:19:28.1379162Z,false,2024-05-21T00:19:28.1379162Z,gpiercey@dnister.com.au,Gwennie,Piercey,Sales Associate
+5REtIKB,Email Sent,,0,0,2024-05-21T00:19:28.2236747Z,false,2024-05-21T00:19:28.2236747Z,hmatevosian@dnister.com.au,Haydon,Matevosian,Media Manager III
+pd7sdZF,Email Sent,,0,0,2024-05-21T00:19:28.306442Z,false,2024-05-21T00:19:28.306442Z,hluckhurst@dnister.com.au,Hermy,Luckhurst,Recruiter
+u8satoV,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:28.387214Z,true,2024-05-21T00:24:09.1687546Z,hcowle@dnister.com.au,Hewie,Cowle,Recruiting Manager
+RoPzo4Z,Email Sent,,0,0,2024-05-21T00:19:28.4699813Z,false,2024-05-21T00:19:28.4699813Z,jstebbings@dnister.com.au,Jaymie,Stebbings,Community Outreach Specialist
+nTBPeG5,Email Sent,,0,0,2024-05-21T00:19:28.5547422Z,false,2024-05-21T00:19:28.5547422Z,jjordison@dnister.com.au,Johannah,Jordison,Computer Systems Analyst IV
+XpeHBGy,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:28.6385078Z,false,2024-05-21T00:21:14.9220142Z,kallwright@dnister.com.au,Kalie,Allwright,Web Designer I
+H6VLrz3,Submitted Data,127.0.0.1,0,0,2024-05-21T00:19:28.7172849Z,false,2024-05-21T00:20:55.6199144Z,kludgrove@dnister.com.au,Keefer,Ludgrove,Account Coordinator
+lDXiL2M,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:28.7960647Z,true,2024-05-21T00:24:10.7935327Z,kmatantsev@dnister.com.au,Kriste,Matantsev,Senior Editor
+vIO3jQL,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:28.8718516Z,true,2024-05-21T00:24:13.3057269Z,mflewett@dnister.com.au,Maddi,Flewett,Assistant Media Planner
+mY8RVw0,Email Sent,,0,0,2024-05-21T00:19:28.9506294Z,false,2024-05-21T00:19:28.9506294Z,mavrahamov@dnister.com.au,Malissia,Avrahamov,Web Developer II
+Cu2yxbJ,Email Sent,,0,0,2024-05-21T00:19:29.0314024Z,false,2024-05-21T00:19:29.0314024Z,mstraffon@dnister.com.au,Marcelia,Straffon,Software Test Engineer II
+YkHIDTq,Email Sent,,0,0,2024-05-21T00:19:29.1091835Z,false,2024-05-21T00:19:29.1091835Z,nmateescu@dnister.com.au,Nancie,Mateescu,Software Engineer IV
+FFJlSoS,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.1909521Z,false,2024-05-21T00:21:09.6587691Z,ptimby@dnister.com.au,Phip,Timby,Help Desk Operator
+lKQEmln,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.2797024Z,false,2024-05-21T00:21:13.41713Z,rashby@dnister.com.au,Rory,Ashby,Account Representative I
+3sQs4JA,Clicked Link,127.0.0.1,0,0,2024-05-21T00:19:29.3624699Z,true,2024-05-21T00:24:15.4550688Z,rbarroux@dnister.com.au,Royce,Barroux,Sales Associate
+B5CNPuX,Submitted Data,127.0.0.1,0,0,2024-05-21T00:19:29.4462345Z,false,2024-05-21T00:20:45.2053746Z,rgorelli@dnister.com.au,Rozele,Gorelli,Administrative Assistant IV
+abtWfgC,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.5260092Z,false,2024-05-21T00:21:18.9609255Z,sechelle@dnister.com.au,Sallie,Echelle,VP Sales
+bz0gzXz,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.6117689Z,false,2024-05-21T00:21:10.992312Z,sfordy@dnister.com.au,Serena,Fordy,Associate Professor
+bHa5z6p,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.7114874Z,false,2024-05-21T00:21:20.5973226Z,skalkofen@dnister.com.au,Sibby,Kalkofen,GIS Technical Architect
+r3iYNGH,Submitted Data,127.0.0.1,0,0,2024-05-21T00:19:29.7942563Z,false,2024-05-21T00:20:33.0188252Z,sleber@dnister.com.au,Sonnnie,Leber,Software Test Engineer III
+4lAEvTM,Submitted Data,127.0.0.1,0,0,2024-05-21T00:19:29.8720361Z,false,2024-05-21T00:20:17.8603438Z,tbartoshevich@dnister.com.au,Tann,Bartoshevich,Software Test Engineer II
+fxsvINN,Email Opened,127.0.0.1,0,0,2024-05-21T00:19:29.9528095Z,false,2024-05-21T00:21:23.1844118Z,tnielson@dnister.com.au,Tracee,Nielson,Product Engineer
+FraidFl,Submitted Data,127.0.0.1,0,0,2024-05-21T00:19:30.0325847Z,false,2024-05-21T00:20:05.615952Z,tadami@dnister.com.au,Tremaine,Adami,Environmental Tech
